@@ -44,6 +44,6 @@ function playMemoryTest(numberOfNumbers) {
         correct = correctGuesses.length;
 
         alert(`You got ${correct} right!`)
-    }, 3000);
+    }, 15000);
 
 }
